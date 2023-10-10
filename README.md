@@ -1,7 +1,7 @@
 # Data-Driven-Marketing - Statistical Optimization
 
 ## Introduction
-This repository contains the final group project for DSCC/CSC 462. The project focuses on analyzing ad data from a company to understand its advertising effectiveness on various social media platforms. The dataset provides insights into the demographics of each social media platform's user base, the cost of the ad, the revenue generated, and other relevant metrics.
+The project focuses on analyzing ad data from a company to understand its advertising effectiveness on various social media platforms. The dataset provides insights into the demographics of each social media platform's user base, the cost of the ad, the revenue generated, and other relevant metrics.
 
 ## Objective
 The primary goal is to help the company understand the data they have collected and provide recommendations about its advertising strategy moving forward.
